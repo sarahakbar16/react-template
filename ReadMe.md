@@ -1,6 +1,6 @@
-# Data Core Template
+# React Template
 
-This template provides the tools needed to create React based frontend applications for Data Core. 
+This template provides the tools needed to create React based frontend applications.
 
 It includes:
 - React + TypeScript Support 
